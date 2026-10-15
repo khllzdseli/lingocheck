@@ -1,0 +1,5 @@
+﻿node_modules/
+venv/
+.next/
+db.sqlite3
+.env
